@@ -40,6 +40,7 @@ gem 'sprockets', '2.11.0'
 gem 'devise', '>= 3.2.4'
 gem "geocoder"
 gem "figaro", ">= 1.0.0"
+gem 'carrierwave'
 
 
 
