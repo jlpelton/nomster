@@ -17,7 +17,7 @@ class PictureUploader < CarrierWave::Uploader::Base
   end
 
 uploader = PictureUploader.new
-uploader.store!(icecream.jpeg)
+
 
 
 
